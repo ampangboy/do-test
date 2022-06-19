@@ -1,0 +1,13 @@
+.searchForm_container {
+  display: flex;
+  align-items: center;
+  padding-left: 27vw;
+  padding-right: 27vw;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.searchBar_wrapper {
+  flex-grow: 1;
+  margin-right: 15px;
+}

@@ -1,0 +1,10 @@
+.headerCell_container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.headerCell_text {
+  font-weight: bold;
+  flex-grow: 1;
+}

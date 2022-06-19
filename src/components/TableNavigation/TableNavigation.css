@@ -1,0 +1,6 @@
+.tableNavigation {
+  display: flex;
+  justify-content: flex-end;
+  column-gap: 4px;
+  margin-top: 15px;
+}

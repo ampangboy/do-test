@@ -1,0 +1,12 @@
+.inputBox {
+  width: 100%;
+  border: none;
+  border-bottom: 1.4px solid black;
+  height: 25px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.inputBox:focus-visible {
+  outline-width: 0;
+}

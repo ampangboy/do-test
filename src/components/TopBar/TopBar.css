@@ -1,0 +1,9 @@
+.topBarItem {
+  flex-grow: 1;
+  text-align: right;
+  margin-right: 50px;
+}
+
+.topBarItem_text {
+  font-size: 12px;
+}

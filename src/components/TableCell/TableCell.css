@@ -1,0 +1,9 @@
+.tablecell {
+  flex-grow: 1;
+  font-size: 13px;
+  padding: 3px 8px 3px 8px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  flex-basis: 40px;
+}

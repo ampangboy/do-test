@@ -1,0 +1,18 @@
+.tablerow {
+  height: 60px;
+  border-bottom: 1px solid rgb(212, 212, 212);
+  display: flex;
+  align-items: center;
+}
+
+.tablerow_header {
+  border-top: 1px solid rgb(212, 212, 212);
+}
+
+.tablerow_header > * {
+  border-left: 1px solid rgb(212, 212, 212);
+}
+
+.tablerow_header > *:first-child {
+  border-left: none;
+}

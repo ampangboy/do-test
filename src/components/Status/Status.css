@@ -1,0 +1,10 @@
+.statusText {
+  text-align: center;
+  padding: 5px 0;
+  width: 100%;
+}
+
+.statusText_selesai {
+  background-color: #c9f7f4;
+  color: #2bcac3;
+}

@@ -1,0 +1,18 @@
+.secondBarItem {
+  flex-grow: 1;
+}
+
+.secondBarItem_title {
+  margin-left: 15px;
+  text-align: left;
+  font-weight: bold;
+}
+
+.secondBarItem_datetime {
+  margin-right: 50px;
+  text-align: right;
+}
+
+.secondBarItem_text {
+  font-size: 11px;
+}

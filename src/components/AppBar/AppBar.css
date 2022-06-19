@@ -1,0 +1,12 @@
+.appbar {
+  min-height: 35px;
+}
+
+.appbarElevate {
+  background: linear-gradient(to top, #f4f4f4, transparent 30%);
+}
+
+.appbarContent {
+  display: flex;
+  align-items: center;
+}

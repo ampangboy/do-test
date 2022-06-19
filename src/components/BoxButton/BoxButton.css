@@ -1,0 +1,22 @@
+.boxButton {
+  border: 1.8px solid #d9d9d9;
+  height: 25px;
+  width: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.boxButton_active {
+  border: 1.8px solid #8dc7ff;
+}
+
+.boxButton_text {
+  color: #d9d9d9;
+  font-size: 14px;
+}
+
+.boxButton_text_active {
+  color: #8dc7ff;
+}
