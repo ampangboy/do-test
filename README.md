@@ -1,4 +1,4 @@
-# Simple React Demo
+# do-test - A simple react demo
 
 ## Setup Instruction
 
